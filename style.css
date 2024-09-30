@@ -1,6 +1,6 @@
  body {
     background-color: #FF3366;
-    color: #C70039;
+    color: hsl(343, 100%, 39%);
     font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
