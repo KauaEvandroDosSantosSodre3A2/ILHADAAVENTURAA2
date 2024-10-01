@@ -1,7 +1,7 @@
  body {
     background-color: #FF3366;
-    color: hsl(343, 100%, 39%);
-    font-family: "Bai Jamjuree", sans-serif;
+    color: #C70039;
+    font-family: "Reddit Sans Condensed", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +12,7 @@
 button {
     background-color: #F27372;
     color: #C70039;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Reddit Sans Condensed", sans-serif;
 }
 
 .passo {
